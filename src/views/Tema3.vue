@@ -183,53 +183,53 @@
         .p-2
           h3.mb-0.ms-3 b) Intervenciones individuales
     p.mb-5(data-aos="fade-down") Se orientan a la atención directa de personas y familias, priorizando la oportunidad, la continuidad del cuidado y la garantía de derechos. Estas incluyen:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img15.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Valoración clínica, psicosocial y de riesgo, especialmente en gestantes, menores de edad, sobrevivientes de violencia y personas con enfermedades crónicas.
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img16.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Acompañamiento emocional y primeros auxilios psicológicos ante situaciones de crisis o trayectorias migratorias traumáticas.
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img17.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Activación de rutas de atención en urgencias, salud materna, vacunación, violencia, salud mental y enfermedades transmisibles.
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img18.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Seguimiento de casos priorizados, articulado con EPS, IPS, equipos extramurales y actores comunitarios.
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img19.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Remisiones especializadas y contrarreferencias, garantizando continuidad del cuidado y reducción de barreras administrativas.
       .col-lg-6.col-12
         .row.justify-content-center
-          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+          .col-lg-2.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.cajon.C02.p-0.h-100
               img.w-100.h-100.my-auto(src='@/assets/curso/temas/tema3/img15.svg' alt="Imagen decorativa")
-          .col-lg-8.col-8.px-0.mb-4(data-aos="fade-down")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.cajon.C01.p-3.h-100.d-flex.align-items-center
               p Acciones de protección de derechos, incluyendo orientación jurídica básica, canalización a programas sociales y acceso a afiliación cuando aplique.
     p.mb-5(data-aos="fade-down") El enfoque diferencial, establecido en normativas como la Ley 1098 de 2006 (infancia), Ley 1257 de 2008 (violencias contra la mujer) y Ley 1616 de 2013 (salud mental), es de aplicación obligatoria en la ejecución de las intervenciones. Este enfoque garantiza:

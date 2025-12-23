@@ -8,7 +8,7 @@
       h1 Coordinación sectorial e intersectorial para la atención de la población migrante
     figure.mb-5(data-aos="flip-up") 
       img(src="@/assets/curso/temas/tema2/img01.png", alt="Imagen decorativa")
-    p.mb-5(data-aos="fade-down") La movilidad humana plantea desafíos que superan la capacidad de respuesta de un solo sector, dado que involucra dimensiones sanitarias, sociales, educativas, económicas y comunitarias que requieren intervenciones integrales, continuas y sostenibles. De acuerdo con la Política Integral Migratoria establecida en la Ley 2136 de 2021, la atención a la población migrante debe estructurarse a partir de acciones coordinadas entre sectores, niveles de gobierno y actores territoriales, garantizando el acceso efectivo a servicios, la protección de derechos y la gestión oportuna de los riesgos en salud y protección social.
+    p.mb-4(data-aos="fade-down") La movilidad humana plantea desafíos que superan la capacidad de respuesta de un solo sector, dado que involucra dimensiones sanitarias, sociales, educativas, económicas y comunitarias que requieren intervenciones integrales, continuas y sostenibles. De acuerdo con la Política Integral Migratoria establecida en la Ley 2136 de 2021, la atención a la población migrante debe estructurarse a partir de acciones coordinadas entre sectores, niveles de gobierno y actores territoriales, garantizando el acceso efectivo a servicios, la protección de derechos y la gestión oportuna de los riesgos en salud y protección social.
     .row.justify-content-center.mb-4.align-items-center
       .col-lg-8.order-lg-2.order-2
         .cajon.cajon.C03.color-secundario.p-4.mb-4
@@ -199,7 +199,7 @@
       h2 2.3 Comunidades sin aseguramiento en salud y acciones de respuesta
     p(data-aos="fade-down") La presencia de comunidades sin aseguramiento en salud constituye un desafío estructural para los territorios, especialmente en zonas con alta concentración de población migrante y retornada. La falta de afiliación al Sistema General de Seguridad Social en Salud (SGSSS) se relaciona con movilidad constante, irregularidad migratoria, desconocimiento de los procedimientos de afiliación, barreras idiomáticas y diferencias culturales. Según el Ministerio de Salud y Protección Social, esta situación incrementa el riesgo de no recibir atención oportuna, limita la continuidad del cuidado y profundiza las brechas de acceso entre comunidades receptoras y población en movilidad humana.
     p.mb-5(data-aos="fade-down") Las acciones de respuesta deben alinearse con la Ley Estatutaria 1751 de 2015, la Ley 2136 de 2021 y el Decreto 064 de 2020, que garantizan la atención inicial en salud independientemente del estatus migratorio y orientan la afiliación progresiva de quienes permanecen en el territorio. En concordancia con las orientaciones de la OPS, los entes territoriales deben fortalecer estrategias como:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-4.col-12
         .row.justify-content-center
           .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")

@@ -108,7 +108,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imagen decorativa')
         p(data-aos="fade-down") La ruptura de redes, la estigmatización y las barreras culturales afectan de manera significativa el bienestar emocional y social, lo que exige respuestas integrales desde distintos sectores.
-        p.mb-0(data-aos="fade-down") La articulación intersectorial se convierte en una necesidad estructural, ya que ningún sector por sí solo cuenta con la capacidad técnica, operativa y normativa para responder a la complejidad de la movilidad humana. Por ejemplo:
+        p.mb-0(data-aos="fade-down") La <b>articulación intersectorial</b> se convierte en una necesidad estructural, ya que ningún sector por sí solo cuenta con la capacidad técnica, operativa y normativa para responder a la complejidad de la movilidad humana. Por ejemplo:
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
@@ -138,7 +138,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10.col-12
         p.mb-0.text-center(data-aos="fade-down") En este sentido, los determinantes sociales obligan a las instituciones a desarrollar estrategias de trabajo conjunto que permitan:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .row.justify-content-center
           .col-lg-6.col-12
@@ -335,35 +335,36 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Iglesias y organizaciones religiosas
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Brindan asistencia humanitaria, orientación emocional y apoyo social.
     p.mb-0(data-aos="fade-down") La participación de múltiples actores institucionales, sociales y comunitarios exige altos niveles de coordinación, claridad en la definición de roles y responsabilidades, así como mecanismos estables de articulación intersectorial. De acuerdo con los lineamientos del Ministerio de Salud y Protección Social y de la Organización Internacional para las Migraciones, uno de los principales desafíos en los territorios es la falta de integración efectiva de la información, lo que puede generar duplicidad de acciones, dispersión de esfuerzos y baja efectividad en la respuesta institucional. La ausencia de sistemas de información interoperables dificulta el seguimiento de los casos y la continuidad de los procesos de atención.
-    .row.justify-content-center.BG04.align-items-center.pt-5.pb-5.mb-4
-      .col-lg-11.col-12
-        .row.justify-content-center
-          .col-lg-9.col-12.order-lg-2.order-2
-            h5.mb-4 Entre los retos más frecuentes de la articulación intersectorial se identifican:
-            ol.lista-ol--cuadro.lista-ol--separador.mb-0
-              li.mb-2
-                .lista-ol--cuadro__vineta
-                  span.text-bold 1
-                | La duplicidad de acciones por falta de información compartida y ausencia de protocolos unificados.
-              li.mb-2
-                .lista-ol--cuadro__vineta
-                  span.text-bold 2
-                | Las limitaciones presupuestales que afectan la cobertura, calidad y sostenibilidad de las intervenciones.
-              li.mb-2
-                .lista-ol--cuadro__vineta
-                  span.text-bold 3
-                | Las barreras administrativas que retrasan la activación de rutas y el acceso oportuno a los servicios.
-              li.mb-2
-                .lista-ol--cuadro__vineta
-                  span.text-bold 4
-                | La fragmentación territorial, que genera respuestas desiguales entre zonas urbanas, rurales y de frontera.
-              li.mb-0
-                .lista-ol--cuadro__vineta
-                  span.text-bold 5
-                | La desigualdad en la capacidad operativa entre municipios, relacionada con la disponibilidad de talento humano, infraestructura y recursos técnicos.
-          .col-lg-3.col-8.col-md-7.order-lg-1.order-1
-            figure
-              img(src='@/assets/curso/temas/tema1/img30.svg', alt='Imagen decorativa')
+    .row.justify-content-center.BG04.align-items-center.pt-5.pb-5.mb-0
+      .row.justify-content-center
+        .col-lg-11.col-12
+          .row.justify-content-center
+            .col-lg-9.col-12.order-lg-2.order-2
+              h5.mb-4 Entre los retos más frecuentes de la articulación intersectorial se identifican:
+              ol.lista-ol--cuadro.lista-ol--separador.mb-0
+                li.mb-2
+                  .lista-ol--cuadro__vineta
+                    span.text-bold 1
+                  | La duplicidad de acciones por falta de información compartida y ausencia de protocolos unificados.
+                li.mb-2
+                  .lista-ol--cuadro__vineta
+                    span.text-bold 2
+                  | Las limitaciones presupuestales que afectan la cobertura, calidad y sostenibilidad de las intervenciones.
+                li.mb-2
+                  .lista-ol--cuadro__vineta
+                    span.text-bold 3
+                  | Las barreras administrativas que retrasan la activación de rutas y el acceso oportuno a los servicios.
+                li.mb-2
+                  .lista-ol--cuadro__vineta
+                    span.text-bold 4
+                  | La fragmentación territorial, que genera respuestas desiguales entre zonas urbanas, rurales y de frontera.
+                li.mb-0
+                  .lista-ol--cuadro__vineta
+                    span.text-bold 5
+                  | La desigualdad en la capacidad operativa entre municipios, relacionada con la disponibilidad de talento humano, infraestructura y recursos técnicos.
+            .col-lg-3.col-8.col-md-7.order-lg-1.order-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema1/img30.svg', alt='Imagen decorativa')
     p.mb-5(data-aos="fade-down") A pesar de estos desafíos, la articulación entre actores sectoriales e intersectoriales permite la construcción de respuestas más integrales, coordinadas y sostenibles, orientadas al bienestar de la población migrante y de las comunidades de acogida. Esta articulación contribuye a:
     .row.justify-content-center.mb-5
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
