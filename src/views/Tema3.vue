@@ -50,7 +50,7 @@
           .col-12.bg-c1.h-100
             .p-4
               h4 Enfoques diferenciales y de derechos
-              p.mb-0 Incorporan variables como género, edad, condición migratoria, discapacidad o pertenencia étnica, asegurando intervenciones más justas y pertinentes.}
+              p.mb-0 Incorporan variables como género, edad, condición migratoria, discapacidad o pertenencia étnica, asegurando intervenciones más justas y pertinentes.
     .row.justify-content-center.mb-0(data-aos="flip-down")
       .col-lg-10.col-12
         p(data-aos="fade-down") La Organización Panamericana de la Salud (OPS) resalta la importancia de adaptar los procesos de vigilancia, atención y respuesta a las particularidades de la movilidad humana, integrando mecanismos de coordinación técnica y operativa con actores nacionales y territoriales.
@@ -368,27 +368,27 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img40.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Atención psicosocial
+        p.text-center(data-aos="fade-down") Atención psicosocial.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img41.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Intervención en crisis
+        p.text-center(data-aos="fade-down") Intervención en crisis.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img42.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Acompañamiento emocional
+        p.text-center(data-aos="fade-down") Acompañamiento emocional.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img43.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Activación de rutas de protección
+        p.text-center(data-aos="fade-down") Activación de rutas de protección.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img44.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Rutas intersectoriales coordinadas
+        p.text-center(data-aos="fade-down") Rutas intersectoriales coordinadas.
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img45.jpg')})`}"

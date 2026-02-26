@@ -187,7 +187,7 @@
                     p.mb-0 Coordinación efectiva entre secretarías, EPS, IPS, cooperación internacional y organizaciones sociales.
                   li.mb-0
                     i.lista-ul__vineta
-                    p.mb-0 Sistemas de referencia y contra referencia que permitan atención continua.
+                    p.mb-0 Sistemas de referencia y contrareferencia que permitan atención continua.
                   li.mb-4
                     i.lista-ul__vineta
                     p.mb-0 Participación social a través de organizaciones comunitarias, veedurías y liderazgos migrantes.
